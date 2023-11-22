@@ -5,6 +5,8 @@ permalink: /article/
 author_profile: true
 ---
 
+Last updated: Nov. 2023
+
 ## Research Works
 
 <b>Efficiently matching random inhomogeneous graphs via degree profiles</b><br>
