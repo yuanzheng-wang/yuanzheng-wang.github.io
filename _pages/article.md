@@ -5,7 +5,7 @@ permalink: /article/
 author_profile: true
 ---
 
-Last updated: Nov. 2023
+Last updated at Nov. 2023.
 
 ## Research Works
 
