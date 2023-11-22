@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! (Last updated at Nov. 2023.)
+Welcome to my homepage! (Last updated in Nov. 2023.)
 
 I'm an undergraduate student at the [School of Mathematical Sciences, Peking University](https://www.math.pku.edu.cn/).
 
