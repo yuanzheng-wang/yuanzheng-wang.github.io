@@ -12,7 +12,7 @@ author_profile: true
 [arXiv](https://arxiv.org/abs/2310.10441) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>Disconnection time of a discrete cylinder by a biased random walk</b> (with Xinyi Li and Yu Liu)<br>
-<i>in preparation<i><br>
+<i>in preparation</i><br>
 
 ## Expository Works
 <b>Notes on conformal welding of Liouville quantum gravity surfaces</b>, REU paper, advised by Ewain Gwynne<br>
