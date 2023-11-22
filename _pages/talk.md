@@ -5,7 +5,7 @@ permalink: /talk/
 author_profile: true
 ---
 
-Last updated at Nov. 2023.
+Last updated in Nov. 2023.
 
 ## Talks
 [Academy of Mathematics and System Sciences, CAS Colloquia & Seminars](http://www.amss.cas.cn/mzxsbg/202211/t20221122_6552053.html), Nov. 2022<br>
