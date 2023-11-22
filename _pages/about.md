@@ -12,6 +12,6 @@ Welcome to my homepage!
 
 I'm an undergraduate student at the [School of Mathematical Sciences, Peking University](https://www.math.pku.edu.cn/).
 
-My research interest mainly lie in probability theory and its intersection with statistical physics, combinatorics and geometry.
+My research interests mainly lie in probability theory and its intersection with statistical physics, combinatorics and geometry.
 
 My email address is arenwyz at stu dot pku dot edu dot cn.
