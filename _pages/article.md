@@ -19,4 +19,4 @@ with Xinyi Li and Yu liu<br>
 ## Expository Works
 <b>Notes on conformal welding of Liouville quantum gravity surfaces</b><br>
 REU paper, advised by Ewain Gwynne<br>
-[Link](blob:https://github.com/c039c148-3552-44a2-9ef3-8f5163e40e20) &nbsp;&nbsp;&nbsp;&nbsp;
+[Link](https://yuanzheng-wang.github.io/attachment/Wang%2C%20Yuanzheng.pdf) &nbsp;&nbsp;&nbsp;&nbsp;
