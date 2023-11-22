@@ -1,13 +1,14 @@
 ---
 layout: archive
-title: "CV"
-permalink: /CV/
+title: "Experiences"
+permalink: /experiences/
 author_profile: true
 ---
-
 {% include base_path %}
-Here is a [link](https://yuanzheng-wang.github.io/attachment/Curriculum%20Vitae) of my cv. &nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Education
 
-* B.S. in Mathematics, Peking University, 2020-2024 (expected)
+* <b>Peking University</b>
+    * School of Mathematical Sciences <span style="float:right;"> Sept 2020 - June 2024 (expected) </span>
+
+  
