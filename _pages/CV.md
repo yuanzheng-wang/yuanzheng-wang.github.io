@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-Here is a [link](https://yuanzheng-wang.github.io/attachment/Curriculum%20Vitae) of my cv. &nbsp;&nbsp;&nbsp;&nbsp;
+Here is a [link](https://yuanzheng-wang.github.io/attachment/Curriculum%20Vitae.pdf) of my cv. &nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Education
 
