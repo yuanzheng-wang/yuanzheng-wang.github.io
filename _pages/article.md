@@ -5,7 +5,7 @@ permalink: /publication/
 author_profile: true
 ---
 
-Last updated in Nov. 2023.
+Last updated in Nov. 2024.
 
 ## Research papers
 
