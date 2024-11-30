@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuanzheng Wang"
   avatar           : "profile.png"
-  bio              : "Undergraduate student at Peking University"
-  location         : "Beijing, China"
+  bio              : "Graduate student at MIT"
+  location         : "Cambridge, Massachusetts"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "arenwyz@stu.pku.edu.cn"
+  email            : "yuanz210@mit.edu"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
