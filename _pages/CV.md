@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-Here is a [link](https://yuanzheng-wang.github.io/files/Curriculum%20Vitae.pdf) of my cv. (Last updated in Nov. 2023.)
+Here is a [link](https://yuanzheng-wang.github.io/files/Curriculum%20Vitae_24%20Fall.pdf) of my cv. (Last updated in Nov. 2024.)
 
 ## Education
 * Ph.D. in Mathematics, MIT, 2024-Current
