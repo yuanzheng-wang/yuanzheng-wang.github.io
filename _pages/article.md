@@ -17,7 +17,7 @@ with Xinyi Li and Yu liu<br>
 <b>Efficiently matching random inhomogeneous graphs via degree profiles</b><br>
 with Jian Ding and Yumou Fei<br>
 <i>submitted</i><br>
-[arXiv](https://arxiv.org/abs/2310.10441) 
+[arXiv](https://arxiv.org/abs/2310.10441) [codes](https://github.com/yuanzheng-wang/code/tree/main/inhomogeneous) 
 
 
 ## Expository Writings
